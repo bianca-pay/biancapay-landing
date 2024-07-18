@@ -38,9 +38,9 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Manage. Deploy.
+    title: Score. Credit.
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: Accede a tu crédito.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -114,8 +114,8 @@ params:
       - text: App settings
         url: /
   section1:
-    title: Great power comes
-    subtitle: with great responsibility
+    title: Crédito con el mejor score.
+    subtitle: Fideliza y escala.
     tiles:
     - title: App builder
       icon: mouse-globe
@@ -133,11 +133,11 @@ params:
       url: /
       buttonText: Get started
   section2:
-    title: You're here because you want the best
-    subtitle: And we know it
+    title: Lo mejor en scoring al instante.
+    subtitle: Sabemos como hacerlo.
     features:
-    - title: Powerful and unified interface
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Interfaz potente y unificada
+      text: Nos integramos a tus sistemas.
       # Icon (from static/images/illustrations/icons/___.svg)
       icon: laptop-globe
     - title: Cross-device synchronisation
@@ -147,8 +147,8 @@ params:
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       icon: mobile-feed
   section3:
-    title: One platform
-    subtitle: To rule them all
+    title: Una plataforma
+    subtitle: Para visualizar a tus clientes.
     image: illustrations/mockups/app-mockup.png
     buttonText: Get started
     buttonLink: "#"
